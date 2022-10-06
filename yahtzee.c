@@ -4,8 +4,6 @@ Yahtzee
 Challenge exercise - week 5
 This program takes in a game of yahtzee and computes the best possible score for
 the round.
-The Algorithm is not correct though. However pretty good.
-
 */
 
 #include "yahtzee.h"
